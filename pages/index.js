@@ -63,7 +63,7 @@ export default function Home() {
 
       {/* section */}
       <p className="text-center mt-3 text-muted fst-italic">
-        made by suchanuch Rinkum 640610670
+        made by NATSINEE SASASOPA 640612087
       </p>
     </div>
   );
